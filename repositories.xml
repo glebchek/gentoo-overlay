@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>glebchek-overlay</name>
+      <description lang="en">glebchek's Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/glebchek/gentoo-overlay</homepage>
+        <owner type="person">
+            <name>glebchek</name>
+            <email>mail@glebchek.com</email>
+        </owner>
+        <source type="git">git://github.com/glebchek/gentoo-overlay.git</source>
+        <feed>https://github.com/glebchek/gentoo-overlay/commits/main.atom</feed>
+  </repo>
+</repositories>
